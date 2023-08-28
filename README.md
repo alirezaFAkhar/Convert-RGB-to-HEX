@@ -17,20 +17,19 @@
 ## :star2: About the Project
 
 ### :camera: Screenshots
-<div align="center"> <a href="https://alirezafakhar.github.io/Convert-RGB-to-HEX/index"><img src="https://github.com/alirezaFAkhar/Todo-list/blob/main/assets/images/Todo-list.png" alt='image' width='800'/></a> </div>
+<div align="center"> <a href="https://alirezafakhar.github.io/Convert-RGB-to-HEX/index"><img src="https://github.com/alirezaFAkhar/Convert-RGB-to-HEX/blob/main/asset/images/convert.webp" alt='image' width='800'/></a> </div>
 
 
 
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#976efa](https://via.placeholder.com/10/976efa?text=+) #976efa |
+| Primary Color | ![#976efa ](https://via.placeholder.com/10/976efa ?text=+) #976efa |
 | Secondary Color | ![#ffff](https://via.placeholder.com/10/ffff?text=+) #ffff |
-| Accent Color | ![#00ADB5](https://via.placeholder.com/10/00ADB5?text=+) #00ADB5 |
-| Text Color | ![#00000](https://via.placeholder.com/10/00000?text=+) #00000 |
+| Text Color | ![ #00000](https://via.placeholder.com/10/ 00000?text=+) #00000 |
 
 ## :handshake: Contact
 
-Alireza Fakhar - - alirezaaaafakhar1996@gmail.com
+Alireza Fakhar - alirezaaaafakhar1996@gmail.com
 
 Project Link: [https://github.com/alirezaFAkhar/Convert-RGB-to-HEX](https://github.com/alirezaFAkhar/Convert-RGB-to-HEX)
