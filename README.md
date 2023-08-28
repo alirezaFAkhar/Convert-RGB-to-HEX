@@ -25,7 +25,7 @@
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
 | Primary Color | #976efa |
-| Secondary Color | ![#ffff](https://via.placeholder.com/10/ffff?text=+) #ffff |
+| Secondary Color | #ffff |
 | Text Color |  #00000 |
 
 ## :handshake: Contact
