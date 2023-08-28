@@ -24,9 +24,9 @@
 ### :art: Color Reference
 | Color | Hex |
 | --------------- | ---------------------------------------------------------------- |
-| Primary Color | ![#976efa ](https://via.placeholder.com/10/976efa ?text=+) #976efa |
+| Primary Color | #976efa |
 | Secondary Color | ![#ffff](https://via.placeholder.com/10/ffff?text=+) #ffff |
-| Text Color | ![ #00000](https://via.placeholder.com/10/ 00000?text=+) #00000 |
+| Text Color |  #00000 |
 
 ## :handshake: Contact
 
